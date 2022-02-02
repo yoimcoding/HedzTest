@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x394C7779d41aBEf8678ba98614b9e03c58283Fff",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x394c7779d41abef8678ba98614b9e03c58283fff",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "HedzTest",
+  "SYMBOL": "HDZTST",
+  "MAX_SUPPLY": 445,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hedztest",
+  "SHOW_BACKGROUND": true
+}
